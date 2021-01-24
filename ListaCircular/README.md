@@ -9,8 +9,6 @@
 - Note que os dois atendentes podem ter que atender o mesmo cliente ao mesmo tempo. Se isso ocorrer, um tira folga e o outro acaba o atendimento.
 
 
-![alt text](https://github.com/dedsylva/[reponame]/blob/[branch]/image.jpg?raw=true)
-
 ### Restrições
 
 * Armazenar os dados em lista duplamente encadeada;
